@@ -17,8 +17,8 @@
 <a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="42" height="42" /></a>
 <a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="42" height="42" /></a>
 <a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="42" height="42" /></a></p>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=geoffreylokol22&show_icons=true&locale=en" alt="geoffreylokol22" /></p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=geoffreylokol22&" alt="geoffreylokol22" /></p>
-<p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=geoffreylokol22&show_icons=true&locale=en&layout=compact" alt="geoffreylokol22" /></p>
-<p><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=geoffreylokol22" alt="geoffreylokol22" /></a></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=glokol22&show_icons=true&locale=en" alt="glokol22" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=glokol22&" alt="glokol22" /></p>
+<p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=glokol22&show_icons=true&locale=en&layout=compact" alt="glokol22" /></p>
+<p><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=glokol22" alt="glokol22" /></a></p>
 
