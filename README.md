@@ -1,24 +1,62 @@
-<h1>Hi 👋, I'm Lokol</h1>
-<p>A data analyst with a strong background in data extraction, cleaning, and visualization. Skilled in Python, SQL, and data automation, with a keen interest in uncovering insights through analytics. Constantly exploring new technologies to drive data-driven decision-making.</p>
-<h2>🚀 Languages and Tools I Use</h2>
-<p><a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="42" height="42" /></a>
-<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="42" height="42" /></a>
-<a target="_blank" href="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" style="display: inline-block;"><img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="42" height="42" /></a>
-<a target="_blank" href="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" style="display: inline-block;"><img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="42" height="42" /></a>
-<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="42" height="42" /></a>
-<a target="_blank" href="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" style="display: inline-block;"><img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="42" height="42" /></a>
-<a target="_blank" href="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" style="display: inline-block;"><img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="42" height="42" /></a>
-<a target="_blank" href="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" style="display: inline-block;"><img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="42" height="42" /></a>
-<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="42" height="42" /></a>
-<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="42" height="42" /></a>
-<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/d3js/d3js-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/d3js/d3js-original.svg" alt="d3js" width="42" height="42" /></a>
-<a target="_blank" href="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" style="display: inline-block;"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="42" height="42" /></a>
-<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="42" height="42" /></a>
-<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="42" height="42" /></a>
-<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="42" height="42" /></a>
-<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="42" height="42" /></a></p>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=glokol22&show_icons=true&locale=en" alt="glokol22" /></p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=glokol22&" alt="glokol22" /></p>
-<p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=glokol22&show_icons=true&locale=en&layout=compact" alt="glokol22" /></p>
-<p><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=glokol22" alt="glokol22" /></a></p>
+# 👋 Hi there! I'm [Your Name]
+
+### Data Scientist | Machine Learning Engineer | Cloud Enthusiast
+
+I'm a passionate Data Scientist who enjoys building robust machine learning models, solving class imbalance challenges, and deploying models to production. I love working on real-world problems that require a blend of statistical thinking, engineering, and creativity.
+
+---
+
+### 🔬 What I'm Working On
+
+- 🏦 **Bank Marketing Prediction** – Building a classification model to predict customer subscription using UCI data  
+- 💳 **Fraud Detection System** – Identifying potential fraud in transactions using behavior-based models  
+- 💵 **Banknote Authentication** – Classifying genuine vs forged banknotes using wavelet-transformed image features
+
+---
+
+### 💡 What I Know & Use
+
+**Languages & Libraries**  
+`Python`, `Pandas`, `NumPy`, `Scikit-learn`, `Matplotlib`, `Seaborn`, `XGBoost`, `LightGBM`, `CatBoost`, `imbalanced-learn`, `SQL`
+
+**Machine Learning & Data Tasks**  
+- Exploratory Data Analysis (EDA)
+- Feature Engineering
+- Class Imbalance Handling (SMOTE, ADASYN, UnderSampling, etc.)
+- Model Evaluation (F1-score, ROC-AUC, Precision-Recall)
+- Cross-validation & Pipelines
+- Model Explainability
+
+**DevOps & Cloud**  
+- `Docker`, `FastAPI`, `AWS`, `Kubernetes (learning)`, `Git`, `GitHub Actions`
+
+**Tools & Platforms**  
+- Jupyter Notebooks, VSCode, MySQL, SQLite, Git, GitHub
+
+---
+
+### 🌱 Currently Learning
+
+- Model Deployment (APIs with FastAPI, Dockerizing ML workflows)  
+- Kubernetes for ML Ops  
+- Time Series Forecasting
+
+---
+
+### 📫 Let's Connect
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://linkedin.com/in/your-username)  
+[![Email](https://img.shields.io/badge/Gmail-red?logo=gmail&logoColor=white)](mailto:your@email.com)
+
+---
+
+### 📈 GitHub Stats
+
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=gruvbox)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=gruvbox)
+
+---
+
+🔍 _"I believe that every dataset tells a story — my job is to find it, model it, and make it actionable."_
 
